@@ -17,5 +17,5 @@ Laravel, PHP, MySQL, JavaScript
 
 ## Contact
 📧 Primary: rcjadhav@gmail.com  
-💼 Work: yourname@yourdomain.com  
-🔗 LinkedIn: linkedin.com/in/yourname
+💼 Work: r.developer.148@gmail.com  
+🔗 LinkedIn: https://in.linkedin.com/in/rupesh-jadhav-224010286
