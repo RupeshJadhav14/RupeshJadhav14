@@ -16,4 +16,6 @@ I build websites and systems that help businesses get more leads and bookings.
 Laravel, PHP, MySQL, JavaScript
 
 ## Contact
-Email: rcjadhav@gmail.com
+Primary Email: rcjadhav@gmail.com
+Work Email: r.developer.148@gmail.com
+LinkedIn: https://in.linkedin.com/in/rupesh-jadhav-224010286
